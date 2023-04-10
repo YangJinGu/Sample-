@@ -50,6 +50,8 @@
 
 - **상품 카테고리** 
 
+
+  <p align="center"><img src="https://github.com/YangJinGu/Sample-/blob/master/images/yangj9.jpg?raw=true"/></p>
   <p align="center"><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/stu_cate.gif?raw=true"/></p>
 
 
