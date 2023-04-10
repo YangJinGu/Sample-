@@ -73,7 +73,6 @@
   <p align="center"><img src="https://github.com/77kkyu/Style_Is_You/blob/master/src/main/webapp/file/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png?raw=true"/></p>
 
   - **메뉴설정, 상품전체 검색 기능**
-- **메뉴설정, 상품전체 검색 기능**
 
     1. Tiles를 이용하여 메인메뉴 전체를 설정.
 
@@ -83,7 +82,7 @@
 
        검색한 목록들을 페이징 처리와 출력.
 
-- **슬라이드, 상품리스트**
+  - **슬라이드, 상품리스트**
 
     1. bxSlider를 이용하여 이미지 슬라이더 구성.
 
